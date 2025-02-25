@@ -32,7 +32,7 @@
 
   ## Usage
 
-  Public usage, to make dev life alittle bit easier.  
+  Public usage, to make dev life a little bit easier.  
 
   ## Credits
 
