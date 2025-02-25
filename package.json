@@ -1,15 +1,24 @@
 {
   "name": "static-site",
   "version": "1.0.0",
-  "description": "",
+  "description": "Readme generator to make readmeFiles the fastest as possible",
   "main": "index.js",
-  "type": "module",
   "scripts": {
+    "build": "npx tsc",
+    "start": "npm run build && node dist/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "inquirer": "8.2.4"
+    "badge-maker": "^4.1.0",
+    "fs": "^0.0.1-security",
+    "inquirer": "^8.2.4"
+  },
+  "keywords": [],
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7",
+    "@types/node": "^22.13.5",
+    "typescript": "^5.7.3"
   }
 }
