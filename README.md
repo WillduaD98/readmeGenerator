@@ -1,18 +1,18 @@
-# titulo 
-  ![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)
+# Readme File Generator 
+  ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
   ## Description
     
-  Description
+  Create optimal readmeFiles
 
 
-  Why did you build this project?
+  To learn how to create readmeFiles Automatically
 
  
-  What problem does it solve?
+  To make an easy way of creating readmeFile's
 
 
-  What did you learn?
+  I learn how to create optimal readmeFiles
 
 
     
@@ -28,29 +28,29 @@
 
   ## Installation 
     
-      What are the steps required to install your project? 
+      npm install -D typescript, npm run start 
 
   ## Usage
 
-  What usage do you want to give.  
+  Public usage, to make dev life alittle bit easier.  
 
   ## Credits
 
-  What credits you want to give?
+  To teacher Justin, for sharing all of his knowleadge with us.
 
   ## License
 
-  ![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)
+  ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
-  This project is licenses under the GPLv3 License.  
+  This project is licenses under the MIT License.  
 
-  https://www.gnu.org/licenses/gpl-3.0
+  https://opensource.org/licenses/MIT
 
   ## Questions
   
-  ![Github](https://img.shields.io/badge/Github-yellow)(https://github.com/willdua98)
-  willdua98
+  ![Github](https://img.shields.io/badge/Github-yellow)
+  WillduaD98 (https://github.com/WillduaD98)
 
   ![Email](https://img.shields.io/badge/Email-pink) 
-  willi_dds@gmail.com: Title: Question for ReadmeFile, body: Add your questions in the email in order. 
+  willdua.inserex@gmail.com: Title: Question for ReadmeFile, body: Add your questions in the email in order. 
   
